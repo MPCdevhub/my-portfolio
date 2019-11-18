@@ -1,2 +1,1 @@
-# my-portfolio
-A professional serverless portfolio meant to act as a resume and show off my skills in AWS
+A serverless portfolio made using a combination of AWS, React and Git.
